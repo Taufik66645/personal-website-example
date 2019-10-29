@@ -1,6 +1,6 @@
 # This is my personal website
 
-[TaufikHidayat.com](https://yourname.com) is  the personal website of Taufik Hidayat. Passionately created by hand.
+[taufikhidayat-personal.netlify.com](taufikhidayat-personal.netlify.com) is  the personal website of Taufik Hidayat. Passionately created by hand.
 
 ## features
 - Home To look latest update and Shorcut to Service and Clients page
