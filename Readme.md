@@ -7,12 +7,12 @@
 - About To Read more about company and person
 - Contact to Read about phone, email and social media
 - Service to Read what service to offer
-- Client to see all Clients
+- Client to see all our Clients
 
 ## Screenshoot
 
-![Home](Images/home.png)
-![About](Images/about.png)
+![Home](Images/Home.png)
+![About](Images/About.png)
 ![Contact](Images/Contact.png)
 ![Client](Images/Client.png)
 ![Services](Images/Services.png)
