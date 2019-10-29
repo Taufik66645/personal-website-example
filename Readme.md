@@ -1,6 +1,6 @@
 # This is my personal website
 
-[Yourname.com](https://yourname.com) is  the personal website 
+[TaufikHidayat.com](https://yourname.com) is  the personal website of Taufik Hidayat. Passionately created by hand.
 
 ## features
 - Home To look latest update and Shorcut to Service and Clients page
@@ -11,8 +11,8 @@
 
 ## Screenshoot
 
-! [Home](Images/home.png)
-! [About](Images/about.png)
-! [Contact](Images/Contact.png)
-! [Client](Images/Client.png)
-! [Services](Image/Services.png)
+![Home](Images/home.png)
+![About](Images/about.png)
+![Contact](Images/Contact.png)
+![Client](Images/Client.png)
+![Services](Images/Services.png)
